@@ -1,0 +1,13 @@
+.cart-container{
+     position: sticky;
+     top: 15px;
+}
+.cart{
+    box-shadow: 0 0 3px 1px rgb(251, 151, 140);
+    border-radius: 8px;
+    padding: 3px;
+    padding-left: 5px;
+    color: brown;
+    text-align: left;
+   
+}
